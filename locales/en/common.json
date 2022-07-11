@@ -1,0 +1,496 @@
+{
+  "button": {
+    "login": "Login",
+    "edit": "Edit",
+    "delete": "Delete",
+    "create": "Create",
+    "submit": "Submit"
+  },
+  "menu": {
+    "workspace": "Workspace",
+    "dashboard": "Dashboard",
+    "blog": "Blogs",
+    "trading": "Trading",
+    "transaction": "Transaction Management",
+    "tradingPair": "Pairs Setting",
+    "userManagement": "User Management",
+    "wallet": "Wallet Management",
+    "userWallet": "User Balance",
+    "withdraw": "Withdraw",
+    "deposit": "Deposit",
+    "user": "User",
+    "agent": "Agent",
+    "announcement": "Announcement",
+    "signOut": "Sign Out",
+    "earning": "Earning",
+    "stakingSetting": "Staking Setting",
+    "openOrder": "Open Order",
+    "orderHistory": "Order History",
+    "common": "Common",
+    "comonSetting": "Common Setting",
+    "liquidityPool": "Liquidity Pool",
+    "launchToken": "Launch Token",
+    "launchPad": "Launch Pad",
+    "launchPool": "Launch Pool",
+    "whiteLabel": "White Label",
+    "p2p": "P2P",
+    "p2pOrder": "P2P Order",
+    "p2pTransaction": "P2P Transaction",
+    "botTransaction": "Bot Transaction",
+    "internalTransfer": "Internal Transfer",
+    "referral": "Referral",
+    "affiliate": "Affiliate"
+  },
+  "form": {
+    "required": "This field is required",
+    "button": {
+      "create": "Create",
+      "cancel": "Cancel",
+      "update": "Update"
+    }
+  },
+  "table": {
+    "account": "Account",
+    "amount": "Amount",
+    "token": "Token",
+    "status": "Status",
+    "pair": "Pair",
+    "mode": "Mode",
+    "leverage": "Leverage",
+    "side": "Side",
+    "openPrice": "Open Price",
+    "quantity": "Quantity",
+    "symbol": "Symbol",
+    "type": "Type",
+    "fee": "Fee",
+    "available": "Available",
+    "inOrder": "In Order",
+    "inStaking": "In Staking",
+    "total": "Total",
+    "price": "Price",
+    "binancePrice": "Binance Price",
+    "operation": "Operation",
+    "lastUpdated": "Last Updated",
+    "createdAt": "Created At",
+    "verifyInfo": "Id Verify info",
+    "verifyAccount": "Verify ID",
+    "refCode": "Referral Code",
+    "tradeFee": "Trading Fee (%)",
+    "block": "Block",
+    "unblock": "UnBlock",
+    "totalRef": "Total Ref",
+    "agentProfit": "Agent Profit",
+    "totalReceivedProfit": "Total Received Profit",
+    "pendingProfit": "Total Pending Profit",
+    "receivedAt": "Received At",
+    "minQuantity": "Min Quantity",
+    "maxQuantity": "Max Quantity",
+    "coin": "Coin",
+    "country": "Country",
+    "agentRate": "Agent Rate",
+    "refRate": "Ref Rate",
+    "refKey": "Ref Key",
+    "updatedAt": "Updated At",
+    "fromUser": "From User",
+    "toUser": "To User",
+    "userProfit": "User Profit",
+    "totalUserFromRef": "Total User From Ref",
+    "totalAdminRef": "Total Admin Ref",
+    "totalTransaction": "Total Transaction"
+  },
+  "common": {
+    "withdraw": "Withdraw",
+    "deposit": "Deposit",
+    "setting": {
+      "title": "Common Setting",
+      "tradeFeeUSDTTaker": "Default USDT Trade Fee Taker (%)",
+      "tradeFeeUSDTMaker": "Default USDT Trade Fee Maker (%)",
+      "tradeFeeUS2Taker": "Default US2 Trade Fee Taker (%)",
+      "tradeFeeUS2Maker": "Default US2 Trade Fee Maker (%)",
+      "refRate": "Default Referral Rate (%)"
+    }
+  },
+  "dashboard": {
+    "total": "Total",
+    "totalUser": "Total Users",
+    "totalOpeningPosition": "Total Opening Positions",
+    "totalFund": "Total Fund",
+    "user": "User",
+    "transaction": "Transactions"
+  },
+  "blog": {
+    "newBlog": "New Blog",
+    "title": "Title",
+    "shortDescription": "Short Description",
+    "content": "Content",
+    "category": "Category",
+    "edit": "Edit",
+    "status": "Status",
+    "action": "Action",
+    "delete": "Delete",
+    "confirmMessage": "Do you want to delete this blog?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "announcement": {
+    "new": "New Announcement",
+    "title": "Title",
+    "shortDescription": "Short Description",
+    "category": "Category",
+    "edit": "Edit",
+    "status": "Status",
+    "action": "Action",
+    "delete": "Delete",
+    "confirmMessage": "Do you want to delete this announcement?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "transactionManagement": {
+    "title": "Transaction Management",
+    "totalDeposit": "Total Deposit",
+    "totalWithdraw": "Total Withdraw"
+  },
+  "tradingPair": {
+    "title": "Configuration management of trading settings",
+    "orderBookTicker": "Order Book Ticker",
+    "marketDecimal": "Market Decimal",
+    "markerBotSetting": "Maker bot setting",
+    "takerBotSetting": "Taker bot setting",
+    "execQueueTime": "Execute Queue time",
+    "ticker": "Ticker",
+    "tickerMulti": "Ticker Multi",
+    "lifeTime": "Life time",
+    "priceDecimal": "Price Decimal",
+    "quantityDecimal": "Quantity Decimal",
+    "editTitle": "Edit Pair Info",
+    "botTitle": "Bot Management",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "update": "Update",
+    "percent": "Price Percentage(%)",
+    "manipulationTitle": "Market Price Manipulation of pair: {{pair}}",
+    "targetPrice": "Set Price"
+  },
+  "user": {
+    "updateBalance": "Update Balance",
+    "balance": "Balance",
+    "title": "User Management",
+    "all": "All",
+    "confirmed": "Confirmed ID Verify",
+    "submitted": "Submitted ID Verify",
+    "rejected": "Rejected ID Verify",
+    "active": "Active Account",
+    "pending": "Pending Account",
+    "securityLevel": "Security level",
+    "tableActive": "Active",
+    "verifyStatus": "ID verify Status",
+    "tableWhiteLabel": "White Label",
+    "tableP2PMaker": "P2P Maker",
+    "statistic": {
+      "totalUser": "Total Users",
+      "activeUser": "Total Active",
+      "pendingUser": "Total Pending",
+      "confirmedUser": "Total Verified",
+      "verifyingUser": "Total Verifying",
+      "rejectedUser": "Total Rejected",
+      "totalAgent": "Total Agent"
+    },
+    "affiliate": {
+      "createModal": {
+        "title": "Create Affilicate",
+        "create": "Create",
+        "cancel": "Cancel",
+        "totalRate": "Total Rate (%)"
+      }
+    }
+  },
+  "agent": {
+    "setting": "Agent Setting",
+    "agentManagement": "Agent Management",
+    "dayProfit": "Day Paid Profit (days)",
+    "tradeFee": "Default Trade Fee (%)",
+    "saveButton": "Save",
+    "addAgent": "Add Agent",
+    "cancelButton": "Cancel",
+    "updateSettingSuccess": "Update Setting successfully",
+    "createAgent": "Create Agent",
+    "verifiedUser": "Verified Users",
+    "agentTradeFee": "Trade Fee (%)",
+    "edit": "Edit",
+    "removeMessage": "Do you want to remove this agent?",
+    "remove": "Remove Agent",
+    "viewAllRef": "View All Ref",
+    "agentProfit": "Agent profit (%)",
+    "yes": "Yes",
+    "no": "No",
+    "agentUser": "Agent",
+    "payProfitNow": "Pay now",
+    "payNowAlert": "Do you want to pay profit for this agent now?",
+    "payNowSuccess": "Pay Profit Job is executing",
+    "allRef": "All Ref",
+    "myProfitHistory": "My Profit History"
+  },
+  "staking": {
+    "title": "Staking",
+    "setting": {
+      "title": "Staking Setting",
+      "minAmount": "Min Amount",
+      "maxAmount": "Max Amount",
+      "totalAmount": "Total Amount",
+      "apy": "APY (%)",
+      "duration": "Duration",
+      "status": "Status",
+      "cancel": "Cancel",
+      "update": "Update",
+      "create": "Create",
+      "editTitle": "Edit Staking Setting",
+      "createTitle": "Create Staking Setting",
+      "token": "Token",
+      "type": "Type",
+      "typeDuration": "Type Duration"
+    },
+    "statistic": {
+      "totalStaking": "Total Staking",
+      "totalLockedAmount": "Total Locked Amount",
+      "totalDefiAmount": "Total Defi Amount"
+    }
+  },
+  "order": {
+    "openOrder": {
+      "title": "Open Order"
+    },
+    "orderHistory": {
+      "title": "Order History"
+    },
+    "botTransaction": {
+      "title": "Bot Transaction"
+    },
+    "table": {
+      "account": "Account",
+      "pair": "Pair",
+      "price": "Price",
+      "stopLimitPrice": "Stop-Limit Price",
+      "side": "Side",
+      "quantity": "Quantity",
+      "type": "Type",
+      "averageFilledPrice": "Average Filled Price",
+      "status": "Status",
+      "createdAt": "Created At",
+      "id": "ID",
+      "country": "Country",
+      "seller": "Seller",
+      "buyer": "Buyer",
+      "totalCommission": "Total Commission",
+      "agentCommission": "Agent Commission",
+      "piexCommission": "Piex Commission",
+      "agent": "Agent",
+      "refType": "Ref Type"
+    }
+  },
+  "liquidityPool": {
+    "token0": "Token 0",
+    "token1": "Token 1",
+    "title": "Liquidity Pool",
+    "token0Amount": "Token 0 Amount",
+    "token0UnpaidSwapFeeAmount": "Token 0 Unpaid",
+    "token0MinAmount": "Token 0 Min Amount",
+    "token0MaxAmount": "Token 0 Max Amount",
+    "token1Amount": "Token 1 Amount",
+    "token1UnpaidSwapFeeAmount": "Token 1 Unpaid",
+    "token1MinAmount": "Token 1 Min Amount",
+    "token1MaxAmount": "Token 1 Max Amount",
+    "swapFee": "Swap Fee(%)",
+    "swapFeeRebate": "Swap Fee Rebate(%)",
+    "stakingRewardAPY": "Staking Reward APY(%)",
+    "swapRewardToken": "Swap Reward Token",
+    "stakingRewardToken": "Staking Reward Token",
+    "createModal": {
+      "title": "Create Liquidity Pool",
+      "create": "Create",
+      "cancel": "Cancel"
+    },
+    "updateModal": {
+      "title": "Update  Liquidity Pool",
+      "update": "Update",
+      "cancel": "Cancel"
+    }
+  },
+  "launchToken": {
+    "title": "Launch Token",
+    "table": {
+      "name": "Name",
+      "symbol": "Symbol",
+      "description": "Description",
+      "totalSupply": "Total Supply",
+      "avatar": "Avatar",
+      "website": "Website",
+      "whitepaper": "White Paper",
+      "totalRewardPool": "Total Reward Pool",
+      "startTimePool": "Start Time Pool",
+      "endTimePool": "End Time Pool",
+      "farmingPeriodPool": "Farming Period Pool"
+    },
+    "createModal": {
+      "title": "Create Launch Token",
+      "create": "Create",
+      "cancel": "Cancel"
+    },
+    "updateModal": {
+      "title": "Update Launch Token",
+      "update": "Update",
+      "cancel": "Cancel"
+    },
+    "form": {
+      "name": "Name",
+      "description": "Description",
+      "avatar": "Avatar (URL)",
+      "website": "Website (URL)",
+      "whitepaper": "White Paper (URL)"
+    }
+  },
+  "launchPad": {
+    "title": "Launch Pad",
+    "table": {
+      "name": "Name",
+      "code": "Code",
+      "avatar": "Avatar",
+      "description": "Description",
+      "introduction": "Introduction",
+      "keyFeatures": "Key Features",
+      "socialTele": "Social Tele",
+      "socialTwt": "Social Twitter",
+      "socialMedium": "Social Medium",
+      "minCommit": "Min Commit",
+      "hardCap": "Hard Cap",
+      "total": "Total",
+      "price": "Price",
+      "holdingStart": "Holding Start",
+      "subscriptionStart": "Subscription Start",
+      "calculationStart": "Calculation Start",
+      "distributionTime": "Distribution Time"
+    },
+    "createModal": {
+      "title": "Create Launch Pad",
+      "create": "Create",
+      "cancel": "Cancel"
+    },
+    "updateModal": {
+      "title": "Update Launch Pad",
+      "update": "Update",
+      "cancel": "Cancel"
+    },
+    "form": {
+      "name": "Name",
+      "symbol": "symbol",
+      "description": "Description",
+      "avatarUrl": "Avatar (URL)",
+      "introduction": "Introduction",
+      "keyFeatures": "Key Features",
+      "social_tele": "Social Tele (URL)",
+      "social_twt": "Social Twitter (URL)",
+      "social_medium": "Social Medium (URL)",
+      "minCommit": "Min Commit",
+      "price": "Price",
+      "hardCap": "Hard Cap",
+      "total": "Total",
+      "holdingStart": "Holding Start",
+      "subscriptionStart": "Subscription Start",
+      "calculationStart": "Calculation Start",
+      "distributionTime": "Distribution Time"
+    }
+  },
+  "launchPool": {
+    "title": "Launch Pool",
+    "table": {
+      "code": "Code",
+      "stakeToken": "Stake Token",
+      "totalReward": "Total Reward",
+      "totalStaker": "Total Staker",
+      "totalStaked": "Total Staked",
+      "apy": "APY (%)"
+    },
+    "createModal": {
+      "title": "Create Launch Pool",
+      "create": "Create",
+      "cancel": "Cancel"
+    },
+    "updateModal": {
+      "title": "Update Launch Pool",
+      "update": "Update",
+      "cancel": "Cancel"
+    },
+    "form": {
+      "symbol": "Symbol",
+      "stakeToken": "Stake Token",
+      "totalReward": "Total Reward",
+      "apy": "APY (%)"
+    }
+  },
+  "whiteLabel": {
+    "title": "White Label Management"
+  },
+  "p2pOrder": {
+    "title": "P2P Order",
+    "closeTooltip": "Close Order",
+    "table": {
+      "account": "Account",
+      "type": "Type",
+      "token": "Token",
+      "fiat": "Fiat",
+      "price": "Price",
+      "quantity": "Quantity",
+      "available": "Available",
+      "minAmount": "Min Amount",
+      "maxAmount": "Max Amount",
+      "status": "Status"
+    },
+    "closeModal": {
+      "title": "Do you want to close this order?",
+      "okButton": "Ok",
+      "cancelButton": "Cancel"
+    }
+  },
+  "p2pTransaction": {
+    "title": "P2P Transaction",
+    "approveTooltip": "Approve Report",
+    "rejectTooltip": "Reject Report",
+    "chatTooltip": "Message",
+    "chatTitle": "Chat",
+    "table": {
+      "seller": "Seller",
+      "buyer": "Buyer",
+      "token": "Token",
+      "fiat": "Fiat",
+      "price": "Price",
+      "quantity": "Quantity",
+      "fee": "Fee",
+      "paymentTimeout": "Payment Timeout",
+      "status": "Status",
+      "sellerBankName": "Seller Bank Name",
+      "sellerBankAccountName": "Seller Bank Account Name",
+      "sellerBankAccountNumber": "Seller Bank Account Number",
+      "reportReason": "Report Reason",
+      "reportDescription": "Report Description",
+      "reportImage": "Report Image"
+    },
+    "approveModal": {
+      "title": "Do you want to approve this report?",
+      "okButton": "Ok",
+      "cancelButton": "Cancel"
+    },
+    "rejectModal": {
+      "title": "Do you want to reject this report?",
+      "okButton": "Ok",
+      "cancelButton": "Cancel"
+    },
+    "chat": {
+      "writeAMessage": "Write a message"
+    }
+  },
+  "referral": {
+    "title": "Referral Management"
+  },
+  "affiliate": {
+    "title": "Affiliate Management"
+  }
+}
